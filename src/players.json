@@ -1,0 +1,174 @@
+{
+    "1": {
+        "name": "Matthew DeLisi",
+        "btag": "Super",
+        "Teams": [
+          "SF Shock"
+        ],
+        "playerProfile": "https://liquipedia.net/overwatch/Super",
+        "Image": "https://liquipedia.net/commons/images/thumb/3/3e/Super2019.jpg/600px-Super2019.jpg"
+      },
+      "2": {
+        "name": "Brandon Larned",
+        "btag": " Seagull",
+        "Teams": [
+          "Dallas Fuel"
+        ],
+        "playerProfile": "https://liquipedia.net/overwatch/Seagull",
+        "Image": "https://liquipedia.net/commons/images/thumb/d/d9/DAL_Seagull.jpg/600px-DAL_Seagull.jpg"
+      },
+      "3": {
+        "name": "Félix Lengyel",
+        "btag": " xQc",
+        "Teams": [
+          "Dallas Fuel"
+        ],
+        "playerProfile": "https://liquipedia.net/overwatch/XQc",
+        "Image": "https://cdn.vox-cdn.com/thumbor/gm6abUfMwS-3SSH_Dsx51NtPqbw=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/10067815/ruoes3ozcaagk9gerwti.png"
+      },
+      "4": {
+        "name": "Connor Prince",
+        "btag": " Avast",
+        "Teams": [
+          "Boston Uprising"
+        ],
+        "playerProfile": "https://liquipedia.net/overwatch/Avast",
+        "Image": "https://liquipedia.net/commons/images/thumb/4/4a/BOS_Avast.jpg/375px-BOS_Avast.jpg"
+      },
+      "5": {
+        "name": "Ding Menghan",
+        "btag": " Ameng",
+        "Teams": [
+          "Chengdu Hunters"
+        ],
+        "playerProfile": "https://liquipedia.net/overwatch/Ding_Menghan",
+        "Image": "https://liquipedia.net/commons/images/0/01/CDH_2021_Ameng.jpg"
+      }
+      ,"6": {
+        "name": "Benjamin Isohanni",
+        "btag": " BigG00se",
+        "Teams": [
+          "LA Gladiators"
+        ],
+        "playerProfile": "https://liquipedia.net/overwatch/BigG00se",
+        "Image": "https://liquipedia.net/commons/images/a/a3/OWL_2019_Los_Angeles_Gladiators_BigG00se.png"
+      }
+      ,"7": {
+        "name": "Jake",
+        "btag": " Jake",
+        "Teams": [
+          "Houston Outlaws"
+        ],
+        "playerProfile": "https://liquipedia.net/overwatch/Kevster",
+        "Image": "https://liquipedia.net/commons/images/a/a4/PlayerImagePlaceholder.png"
+      },
+      "8": {
+        "name": "JJonak",
+        "btag": "JJonak",
+        "Teams": [
+          "NYXL"
+        ],
+        "playerProfile": "https://liquipedia.net/overwatch/Kevster",
+        "Image": "https://liquipedia.net/commons/images/a/a4/PlayerImagePlaceholder.png"
+      },
+      "9": {
+        "name": "SBB",
+        "btag": "SBB",
+        "Teams": [
+          "NYXL" , "Seoul Dynasty"
+        ],
+        "playerProfile": "https://liquipedia.net/overwatch/Kevster",
+        "Image": "https://liquipedia.net/commons/images/a/a4/PlayerImagePlaceholder.png"
+      },
+      "10": {
+        "name": "Elsa",
+        "btag": " Elsa",
+        "Teams": [
+          "Chengdu Hunters"
+        ],
+        "playerProfile": "https://liquipedia.net/overwatch/Kevster",
+        "Image": "https://liquipedia.net/commons/images/a/a4/PlayerImagePlaceholder.png"
+      },
+      "11": {
+        "name": "leave",
+        "btag": "leave",
+        "Teams": [
+          "Chengdu Hunters"
+        ],
+        "playerProfile": "https://liquipedia.net/overwatch/Kevster",
+        "Image": "https://liquipedia.net/commons/images/a/a4/PlayerImagePlaceholder.png"
+      },
+      "12": {
+        "name": "Bianca",
+        "btag": "Bianca",
+        "Teams": [
+          "NYXL"
+        ],
+        "playerProfile": "https://liquipedia.net/overwatch/Kevster",
+        "Image": "https://liquipedia.net/commons/images/a/a4/PlayerImagePlaceholder.png"
+      },
+      "13": {
+        "name": "Sinatraa",
+        "btag": "Sinatraa",
+        "Teams": [
+          "SF Shock"
+        ],
+        "playerProfile": "https://liquipedia.net/overwatch/Kevster",
+        "Image": "https://liquipedia.net/commons/images/a/a4/PlayerImagePlaceholder.png"
+      },
+      "14": {
+        "name": "Soon",
+        "btag": "Soon",
+        "Teams": [
+          "LA Valiant" , "Paris Eternal" , "Boston Uprising"
+        ],
+        "playerProfile": "https://liquipedia.net/overwatch/Kevster",
+        "Image": "https://liquipedia.net/commons/images/a/a4/PlayerImagePlaceholder.png"
+      },
+      "15": {
+        "name": "Ellivote",
+        "btag": "Ellivote",
+        "Teams": [
+          "Houston Outlaws"
+        ],
+        "playerProfile": "https://liquipedia.net/overwatch/Kevster",
+        "Image": "https://liquipedia.net/commons/images/a/a4/PlayerImagePlaceholder.png"
+      },
+      "16": {
+        "name": "Poko",
+        "btag": "Poko",
+        "Teams": [
+          "Houston Outlaws"
+        ],
+        "playerProfile": "https://liquipedia.net/overwatch/Kevster",
+        "Image": "https://liquipedia.net/commons/images/a/a4/PlayerImagePlaceholder.png"
+      },
+      "17": {
+        "name": "Kariv",
+        "btag": "Kariv",
+        "Teams": [
+          "LAV , Defiant "
+        ],
+        "playerProfile": "https://liquipedia.net/overwatch/Kevster",
+        "Image": "https://liquipedia.net/commons/images/a/a4/PlayerImagePlaceholder.png"
+      },
+      "18": {
+        "name": "Agilities",
+        "btag": "Agilities",
+        "Teams": [
+          "Houston Outlaws"
+        ],
+        "playerProfile": "https://liquipedia.net/overwatch/Kevster",
+        "Image": "https://liquipedia.net/commons/images/a/a4/PlayerImagePlaceholder.png"
+      },
+      "19": {
+        "name": "Colour Hex",
+        "btag": " JJonak",
+        "Teams": [
+          "Houston Outlaws"
+        ],
+        "playerProfile": "https://liquipedia.net/overwatch/Kevster",
+        "Image": "https://liquipedia.net/commons/images/a/a4/PlayerImagePlaceholder.png"
+      }
+      
+}
