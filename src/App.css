@@ -37,9 +37,9 @@
   }
 }
 img {
-  width: 200px; /* You can set the dimensions to whatever you want */
+  width: flex; /* You can set the dimensions to whatever you want */
+  max-width: 200px;
   height: auto;
-  object-fit: cover;
   align-content: center;
 }
 .split {

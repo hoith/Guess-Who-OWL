@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Card from './components/cards'
 import GuessCard from './components/guesscard'
@@ -15,10 +14,10 @@ function App() {
   return (
     <div className="App">
       <div class="split left" style={{margin:"auto"}}>
-        <div style={{background:"black" , margin:"20px"}}>
-        <h1 style={{color:"white"}}>GUESS <br/>WH-OWL</h1>
+        <div style={{background:"black" , margin:"30px"}}>
+        <h1 style={{color:"white"}}>GUESS <br/>WHO?</h1>
         </div>
-      <div style={{background:"black", margin:"20px" , padding:"5px", paddingTop:"15px"}}>
+      <div style={{background:"black", margin:"30px" , padding:"5px", paddingTop:"15px"}}>
       <GuessCard 
       title="Guess Me" 
       name={Players[getrand].name} 
