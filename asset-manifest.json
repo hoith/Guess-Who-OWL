@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Guess-Who-OWL/static/css/main.284a60a0.chunk.css",
-    "main.js": "/Guess-Who-OWL/static/js/main.42fa3d46.chunk.js",
-    "main.js.map": "/Guess-Who-OWL/static/js/main.42fa3d46.chunk.js.map",
+    "main.css": "/Guess-Who-OWL/static/css/main.a45831d4.chunk.css",
+    "main.js": "/Guess-Who-OWL/static/js/main.4c32bc81.chunk.js",
+    "main.js.map": "/Guess-Who-OWL/static/js/main.4c32bc81.chunk.js.map",
     "runtime-main.js": "/Guess-Who-OWL/static/js/runtime-main.ad15b14a.js",
     "runtime-main.js.map": "/Guess-Who-OWL/static/js/runtime-main.ad15b14a.js.map",
     "static/css/2.150d169a.chunk.css": "/Guess-Who-OWL/static/css/2.150d169a.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.29be39fb.chunk.js.map": "/Guess-Who-OWL/static/js/3.29be39fb.chunk.js.map",
     "index.html": "/Guess-Who-OWL/index.html",
     "static/css/2.150d169a.chunk.css.map": "/Guess-Who-OWL/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.284a60a0.chunk.css.map": "/Guess-Who-OWL/static/css/main.284a60a0.chunk.css.map",
+    "static/css/main.a45831d4.chunk.css.map": "/Guess-Who-OWL/static/css/main.a45831d4.chunk.css.map",
     "static/js/2.2d8ebc17.chunk.js.LICENSE.txt": "/Guess-Who-OWL/static/js/2.2d8ebc17.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ad15b14a.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.2d8ebc17.chunk.js",
-    "static/css/main.284a60a0.chunk.css",
-    "static/js/main.42fa3d46.chunk.js"
+    "static/css/main.a45831d4.chunk.css",
+    "static/js/main.4c32bc81.chunk.js"
   ]
 }
