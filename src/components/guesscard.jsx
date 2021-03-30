@@ -25,7 +25,7 @@ export class cards extends Component {
     render() {
 
         return (
-            <div>
+            <div style={{padding:"10px"}}>
                 <img style={{height:"auto",width:"auto",maxWidth:"100%" , margin:"0px"} } src={this.props.imagelink}/>
 
               </div>
