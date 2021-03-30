@@ -26,11 +26,8 @@ export class cards extends Component {
 
         return (
             <div>
-                {console.log(this.state.isShown)}
-            {this.state.isShown==false
-                ? <img style={{visibility:"hidden", width:"125px", margin:"10px"}} src={this.props.imagelink}/>
-                :  <img onClick={this.handleClick} style={{width:"125px", margin:"10px"} } src={this.props.imagelink}/>
-              }
+                <img style={{height:"auto", margin:"10px"} } src={this.props.imagelink}/>
+
               </div>
         )
     }
