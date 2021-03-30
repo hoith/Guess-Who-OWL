@@ -25,7 +25,7 @@ export class cards extends Component {
     render() {
 
         return (
-            <div style={{ borderWidth:"1px", borderStyle: "dotted", borderColor: "white"}}>
+            <div style={{ borderWidth:"1px", borderStyle: "solid", borderColor: "black"}}>
                 {console.log(this.state.isShown)}
             {this.state.isShown==false
                 ? <img style={{visibility:"hidden", width:"125px", margin:"10px"}} src={this.props.imagelink}/>
